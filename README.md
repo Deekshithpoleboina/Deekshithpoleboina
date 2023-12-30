@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @Deekshithpoleboina
-- 👀 I’m interested in learning new things
-- 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on new projects
-- 📫 Contact me on my social media
+👋 Hello, World! 
 
-<!---
-Deekshithpoleboina/Deekshithpoleboina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Deekshith Poleboina, a second-year computer science student passionate about creating meaningful and innovative software solutions. Here's a bit about me:
+
+- 📚 Currently pursuing my Bachelor's in Computer Science at SR University.
+- 💡 Interested in a wide range of topics, including Data Structures and Algorithms,Web Development and Machine Learning.
+- 🚀 Actively working on enhancing my skills in C, Python and Java.
+- 🌱 Exploring the world of open-source and contributing to projects that align with my interests.
+- 🛠️ Recently completed a project on https://github.com/Deekshithpoleboina/STAT-ML/tree/main/Final%20Project as part of my coursework.
+- 📫 Let's connect! Whether it's about tech, learning resources, or collaboration, feel free to reach out at deekshithpoleboina@email.com.
+
+- Languages:C,Python
+- Web Development: HTML, CSS
+- Tools & Platforms:Git, VS Code, Leetcode
+
+🙌 Thanks for checking out my GitHub stats! Feel free to explore more about my projects and contributions on my [https://github.com/Deekshithpoleboina]. If you have any questions or suggestions, I'd love to hear from you!
+
+🌐 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/deekshithpoleboina/)
+- [Twitter](https://twitter.com/dixit_trixy)
