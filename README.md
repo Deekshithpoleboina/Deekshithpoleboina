@@ -2,10 +2,9 @@
 
 I'm Deekshith Poleboina, a second-year computer science student passionate about creating meaningful and innovative software solutions. Here's a bit about me:
 
-- 📚 Currently pursuing my Bachelor's in Computer Science at SR University.
-- 💡 Interested in a wide range of topics, including Data Structures and Algorithms,Web Development and Machine Learning.
-- 🚀 Actively working on enhancing my skills in C, Python and Java.
-- 🌱 Exploring the world of open-source and contributing to projects that align with my interests.
+-  Currently pursuing my Bachelor's in Computer Science at SR University.
+-  Interested in a wide range of topics, including Data Structures and Algorithms,Web Development and Machine Learning.
+-  Actively working on enhancing my skills in C, Python and Java.
 - 🛠️ Recently completed a project on https://github.com/Deekshithpoleboina/STAT-ML/tree/main/Final%20Project as part of my coursework.
 - 📫 Let's connect! Whether it's about tech, learning resources, or collaboration, feel free to reach out at deekshithpoleboina@email.com.
 
