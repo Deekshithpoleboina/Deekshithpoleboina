@@ -8,7 +8,7 @@ I'm Deekshith Poleboina, a second-year computer science student passionate about
 - 🛠️ Recently completed a project on https://github.com/Deekshithpoleboina/STAT-ML/tree/main/Final%20Project as part of my coursework.
 - 📫 Let's connect! Whether it's about tech, learning resources, or collaboration, feel free to reach out at deekshithpoleboina@email.com.
 
-- Languages:C,Python
+- Languages: C,Python
 - Web Development: HTML, CSS
 - Tools & Platforms:Git, VS Code, Leetcode
 
