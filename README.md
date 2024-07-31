@@ -1,6 +1,6 @@
 👋 Hello, World! 
 
-I'm Deekshith Poleboina, a second-year computer science student passionate about creating meaningful and innovative software solutions. Here's a bit about me:
+I'm Deekshith Poleboina, a third-year computer science student passionate about creating meaningful and innovative software solutions. Here's a bit about me:
 
 -  Currently pursuing my Bachelor's in Computer Science at SR University.
 -  Interested in a wide range of topics, including Data Structures and Algorithms,Web Development and Machine Learning.
