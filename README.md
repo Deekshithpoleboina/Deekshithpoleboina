@@ -73,16 +73,6 @@
 </div>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
-<br>
-
-<h2 align="center">Competitive Programming Ratings</h2>
-
-<p align="center">
-  <a href="https://leetcode.com/u/Deekshith1223/">
-  </a>
-</p>
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
 
 <!-- Social Links -->
 <h3 align="center">Connect with Me</h3>
