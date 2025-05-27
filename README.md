@@ -74,11 +74,7 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
 
-<!-- Achievements Section -->
-<div align="center">
-  <h3>🏆 Achievements</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=Deekshithpoleboina&theme=dracula&column=4&margin-w=8&margin-h=8" height="200" alt="GitHub Trophies" />
-</div>
+
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
 <br>
