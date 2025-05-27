@@ -79,7 +79,6 @@
 
 <p align="center">
   <a href="https://leetcode.com/u/Deekshith1223/">
-    <img src="https://leetcard.jacoblin.cool/Deekshith1223?ext=activity" height="500" alt="LeetCode activity" />
   </a>
 </p>
 
