@@ -62,7 +62,7 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?logo=database&logoColor=white&style=for-the-badge" height="40" alt="SQL" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="40" alt="MySQL" />
 </div>
-
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
 <!-- Activity Section -->
 <div align="center">
   <h3>📊 GitHub Activity</h3>
