@@ -6,7 +6,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=00F5FF&size=28&center=true&vCenter=true&width=600&height=70&lines=Machine+Learning+Enthusiast;Chatbot+Developer;CSE+Undergrad+@+BMSCE;Transforming+Ideas+into+Innovation!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=00F5FF&size=28&center=true&vCenter=true&width=600&height=70&lines=Machine+Learning+Enthusiast;CSE+Undergrad+@+SRU;Transforming+Ideas+into+Innovation!">
 </p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
