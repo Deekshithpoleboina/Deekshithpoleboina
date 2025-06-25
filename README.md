@@ -1,43 +1,47 @@
+<!-- MasterHead -->
 ![MasterHead](https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png)
 
 <h1 align="center">
   <b>Hi, I'm POLEBOINA DEEKSHITH</b>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=00F5FF&size=28&center=true&vCenter=true&width=600&height=70&lines=Machine+Learning+Enthusiast;CSE+Undergrad+@+SRU;Transforming+Ideas+into+Innovation!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=00F5FF&size=28&center=true&vCenter=true&width=600&height=70&lines=Machine+Learning+Enthusiast;CSE+Undergrad+@+SRU;Transforming+Ideas+into+Innovation!" />
 </p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
+
+<h3 align="center">A final year CSE engineering student at SRU.<br> Transforming ideas into innovation.</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Deekshithpoleboina&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<p align="center">
-  🌟 Passionate about solving real-world problems with technology, especially in AI and automation. Currently exploring Machine Learning, NLP, and full-stack chatbot development.
-</p>
+<img align="right" alt="coding" width="400" src="https://thumbs.dreamstime.com/b/his-office-guy-programmer-sits-front-computer-screen-to-write-software-code-concept-ai-generative-his-270562642.jpg" />
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
+🌟 Passionate about solving real-world problems with technology, especially in AI and automation.  
+Currently exploring Machine Learning, NLP, and full-stack chatbot development.
+
+---
 
 ### 🔭 Currently Working On:
-- Chatbot_Hub 🧠 (Custom NLP Bots & Retrieval-Based Systems)
-- Full-Stack Projects with Python & Node.js
+- 🧠 Chatbot_Hub (Custom NLP Bots & Retrieval-Based Systems)
+- 💻 Full-Stack Projects using Python & Node.js
 
 ### 🌱 Currently Learning:
-- Data Structures & Algorithms
-- TensorFlow, Scikit-learn
-- Backend APIs using Node & Express
+- 🧮 Data Structures & Algorithms
+- 🤖 TensorFlow, Scikit-learn
+- 🔧 Backend APIs with Node & Express
 
 ### 👯 Looking to Collaborate On:
-- AI-Powered Chatbots
-- Innovative Web & ML Projects
+- 🤖 AI-Powered Chatbots
+- 🚀 Innovative Web & ML Projects
 
 ### 📫 Reach Me At:
-- Gmail: deekshithpoleboina@gmail.com
-- LinkedIn: [deekshithpoleboina](https://www.linkedin.com/in/deekshithpoleboina/)
-- HackerRank: [deekshithpolebo1](https://www.hackerrank.com/profile/deekshithpolebo1)
+- 📧 Gmail: deekshithpoleboina@gmail.com  
+- 🔗 LinkedIn: [deekshithpoleboina](https://www.linkedin.com/in/deekshithpoleboina/)  
+- 🧠 HackerRank: [deekshithpolebo1](https://www.hackerrank.com/deekshithpolebo1)
 
 ---
 
@@ -88,17 +92,12 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deekshithpoleboina&theme=react-dark&hide_border=true" />
 </p>
 
-<br/>
-
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deekshithpoleboina&layout=compact&theme=vue&hide_border=true&langs_count=8&custom_title=Most%20Used%20Languages" style="width: 400px;" />
-
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=Deekshithpoleboina&show_icons=true&theme=vue&hide_border=true&custom_title=Deekshith%20Poleboina's%20GitHub%20Stats" style="width: 400px;" />
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deekshithpoleboina&layout=compact&theme=vue&hide_border=true&langs_count=8&custom_title=Most%20Used%20Languages" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Deekshithpoleboina&show_icons=true&theme=vue&hide_border=true&custom_title=Deekshith%20Poleboina's%20GitHub%20Stats" width="400"/>
 </div>
 
-<br/>
+---
 
 ## 🌐 Connect with Me
 
