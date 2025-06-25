@@ -81,18 +81,27 @@
 
 ---
 
-## 📈 GitHub Stats & Activity
+## 📊 GitHub Stats & Activity
 
+### 📈 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deekshithpoleboina&theme=react-dark&hide_border=true" />
-  <img width="45%" src="https://streak-stats.demolab.com?user=Deekshithpoleboina&theme=dracula&hide_border=true" />
-  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deekshithpoleboina&theme=vue&hide=css,html" />
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=Deekshithpoleboina&show_icons=true&theme=vue" />
 </p>
 
----
+<br/>
+
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deekshithpoleboina&layout=compact&theme=vue&hide_border=true&langs_count=8&custom_title=Most%20Used%20Languages" style="width: 400px;" />
+
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=Deekshithpoleboina&show_icons=true&theme=vue&hide_border=true&custom_title=Deekshith%20Poleboina's%20GitHub%20Stats" style="width: 400px;" />
+
+</div>
+
+<br/>
 
 ## 🌐 Connect with Me
+
 <p align="center">
   <a href="mailto:deekshithpoleboina@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -103,18 +112,4 @@
   <a href="https://www.hackerrank.com/deekshithpolebo1" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
-  <a href="https://youtube.com/@bdeekshith_06" target="_blank">
-    <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/the_promptengineer" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
-
-<p align="center">
-  <img src="https://img.shields.io/badge/📫 Feel free to reach out for collaboration or just to say hi!-E34F26?style=for-the-badge" />
-  <br>
-  <img src="https://img.shields.io/badge/🌈 Code is poetry, and I'm here to write beautiful verses. 🌈-E34F26?style=for-the-badge" />
 </p>
