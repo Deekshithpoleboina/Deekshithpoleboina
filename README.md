@@ -7,12 +7,12 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=00F5FF&size=28&center=true&vCenter=true&width=600&height=70&lines=Machine+Learning+Enthusiast;CSE+Undergrad+@+SRU;Transforming+Ideas+into+Innovation!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=00F5FF&size=28&center=true&vCenter=true&width=600&height=70&lines=Welcome+to+my+GitHub+Profile!;Machine+Learning+Enthusiast;CSE+Undergrad+@+SRU;Transforming+Ideas+into+Innovation!" />
 </p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
 
-<h3 align="center">A final year CSE engineering student at SRU.<br> Transforming ideas into innovation.</h3>
+<h3 align="center">A 4th year CSE engineering student at SRU.<br></h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Deekshithpoleboina&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
