@@ -2,7 +2,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png)
 
 <h1 align="center">
-  <b>Hi, I'm POLEBOINA DEEKSHITH</b>
+  <b>Hi, I'm DEEKSHITH</b>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
 </h1>
 
