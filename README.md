@@ -85,12 +85,7 @@ Currently exploring Machine Learning, NLP, and full-stack chatbot development.
 
 ---
 
-## 📊 GitHub Stats & Activity
-
-### 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deekshithpoleboina&theme=react-dark&hide_border=true" />
-</p>
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deekshithpoleboina&layout=compact&theme=vue&hide_border=true&langs_count=8&custom_title=Most%20Used%20Languages" width="400"/>
